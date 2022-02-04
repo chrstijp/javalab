@@ -12,7 +12,6 @@ public class Registration extends Frame implements ActionListener {
     TextField textField3 = new TextField(20);
     TextField textField4 = new TextField(20);
     Registration() {
-        Frame f=new Frame();
         setTitle("Registration");
         setSize(350, 100);
         setVisible(true);
